@@ -1,0 +1,53 @@
+.navbar .navbar-header a{color: #FFD300}
+
+.navbar .collapse ul li a:hover{color: #FFD300}
+
+.header h2 > span {color: #FFD300;}
+
+.header .fa-chevron-down:hover, .header .fa-chevron-down:focus{color: #FFD300;}
+
+.about h2:before,
+.about h2::after,
+.skill h2::before,
+.skill h2::after,
+.our-works h2::before,
+.our-works h2::after,
+.stats h2::before,
+.stats h2::after,
+.blogs h2::before,
+.blogs h2::after,
+.contact h2::before,
+.contact h2::after{border: 2px solid #FFD300}
+
+.about .btn1{background-color: #FFD300}
+
+.skill .circle .loader{border-color: #FFD300 #FFD300 gray}
+
+.scrollToTop:hover, .scrollToTop:focus{color: #FFD300}
+
+.our-works ul .selected{color: #FFD300; border-bottom: 2px solid #FFD300}
+
+.our-works button.hvr-bounce-to-right:before{background-color: #FFD300}
+
+.stats .stat-box .box i{color: #FFD300}
+
+.team h3{border-bottom: 4px solid #FFD300}
+
+.carousel-indicators .active{background-color: #FFD300}
+
+.blogs .blogs-content .blogs-text .fa-plus{background-color: #FFD300}
+
+.blogs .blogs-content .blogs-text button{background-color: #FFD300}
+
+.blogs button:last-child.hvr-bounce-to-right:before{background-color: #FFD300}
+
+.contact form .hvr-bounce-to-right:before{background-color: #FFD300}
+.contact form button:hover{background-color: #FFD300;}
+
+footer ul a:hover{color: #FFD300}
+
+.copycial .copyright b{color: #FFD300}
+
+.copycial .social-media a > i:hover{color: #FFD300}
+
+.menu .social-media a > i:hover{color: #FFD300}
