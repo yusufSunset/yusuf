@@ -1,4 +1,3 @@
-<style>
 /*My Framwork*/
 .main-color{color: #FFD300 !important}
 .blur-full-page{filter: blur(3px); transition: 1s}
@@ -685,4 +684,3 @@ footer ul a:hover{text-decoration: none; color: #FFD300}
 .scrollToTop:hover,
 .scrollToTop:focus{color: #FFEE00;}
 /*End Scroll To Top*/
-</style>
