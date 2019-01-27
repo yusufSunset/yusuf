@@ -1,10 +1,11 @@
+<style>
 /*My Framwork*/
 .main-color{color: #FFD300 !important}
 .blur-full-page{filter: blur(3px); transition: 1s}
 #ascrail2000-hr{display: none !important;}
 /**/
 header{
-  background: url('../img/waves.gif') no-repeat top center;
+  background: url('https://e.top4top.net/p_11224t5of2.gif') no-repeat top center;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -346,7 +347,7 @@ header{
 
 /*Start Section Statistics*/
 .stats{
-  background: url('../img/cover4.jpg') no-repeat top center fixed;
+  background: url('https://d.top4top.net/p_1122v6b541.jpg') no-repeat top center fixed;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -554,7 +555,7 @@ header{
 /*Start Section Contact*/
 .contact{
   padding: 80px 0;
-  background: url('../img/night-sky.jpg') no-repeat top center fixed;
+  background: url('https://a.top4top.net/p_11222xr2x6.jpg') no-repeat top center fixed;
   background-size: cover;
 }
 
@@ -684,3 +685,4 @@ footer ul a:hover{text-decoration: none; color: #FFD300}
 .scrollToTop:hover,
 .scrollToTop:focus{color: #FFEE00;}
 /*End Scroll To Top*/
+</style>
