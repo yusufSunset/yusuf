@@ -11,14 +11,6 @@ $(document).ready(function () {
      $('.fixed-menu').css('border-right', '2px solid #EEE');
      $('.fixed-menu .fa-gear').click();
 
-     if(clicks == 0){
-       $("link[href*='theme'] ").attr("href",  'css/dark-theme.css');
-       clicks++;
-     }else if(clicks == 1){
-       $("link[href*='theme'] ").attr("href",  'css/default-theme.css');
-       --clicks;
-     }
-
   });
 
   // Fixed Menu
