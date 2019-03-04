@@ -11,7 +11,13 @@ $(document).ready(function () {
      $('.fixed-menu').css('border-right', '2px solid #EEE');
      $('.fixed-menu .fa-gear').click();
 
-    
+    if(clicks == 0){
+       $("link[href*='theme'] ").attr("href",  'https://raw.githack.com/yusufSunset/yusuf/master/main.js');
+       clicks++;
+     }else if(clicks == 1){
+       $("link[href*='theme'] ").attr("href",  'https://cdn.staticaly.com/gh/yusufSunset/yusuf/bdd01099/default-theme.css');
+       --clicks;
+     }
 
   });
 
