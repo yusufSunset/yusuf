@@ -22,7 +22,7 @@ $(document).ready(function () {
     });
 
 // Change Color Theme
-$('.fixed-menu .change-color li').click(function (){
+$('.fixed-menu .change-color li, #tgl').click(function (){
 
   var colorChosed =  this.style.backgroundColor;
 
