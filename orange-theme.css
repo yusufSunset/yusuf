@@ -1,0 +1,41 @@
+#ascrail2000 > div,
+.about .btn1,
+.our-works button.hvr-bounce-to-right:before,
+.carousel-indicators .active,
+.blogs .blogs-content .blogs-text .fa-plus,
+.blogs .blogs-content .blogs-text button,
+.contact form .hvr-bounce-to-right:before,
+.blogs button:last-child.hvr-bounce-to-right:before{background-color: #ff9f1a !important}
+
+.menu .prayer li,
+.weather .city,
+.navbar .navbar-header a,
+.navbar .collapse ul li a:hover,
+.navbar .collapse ul li a:focus,
+.header h2 > span,
+.header .fa-chevron-down:hover, .header .fa-chevron-down:focus,
+footer ul a:hover,
+.copycial .copyright b,
+.stats .stat-box .box i,
+.scrollToTop:hover, .scrollToTop:focus,
+.copycial .social-media a > i:hover,
+.menu .social-media a > i:hover{color: #ff9f1a}
+
+.about h2:before,
+.about h2::after,
+.skill h2::before,
+.skill h2::after,
+.our-works h2::before,
+.our-works h2::after,
+.stats h2::before,
+.stats h2::after,
+.blogs h2::before,
+.blogs h2::after,
+.contact h2::before,
+.contact h2::after{border: 2px solid #ff9f1a}
+
+.skill .circle .loader{border-color: #ff9f1a #ff9f1a gray}
+
+.our-works ul .selected{color: #ff9f1a; border-bottom: 2px solid #ff9f1a}
+
+.team h3{border-bottom: 4px solid #ff9f1a}
