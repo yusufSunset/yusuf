@@ -11,6 +11,8 @@ $(document).ready(function () {
      $('.fixed-menu').css('border-right', '2px solid #EEE');
      $('.fixed-menu .fa-gear').click();
 
+    
+
   });
 
   // Fixed Menu
@@ -28,7 +30,7 @@ $('.fixed-menu .change-color li').click(function (){
 
 $("link[href*='theme'] ").attr("href",  $(this).attr("data-value"));
 $('#ascrail2000 > div').attr('href', atColor);
-$('.fixed-menu .fa-gear').click(); // When Choose Color Click On fa-gear To Hide Menu
+$('.fixed-menu .fa-gear').click(); // When Choose Color In Same Time Click On fa-gear To Hide Menu
 
 });
 
@@ -78,17 +80,7 @@ scrltotop.click(function (event){
 
   // Scroll To Bottom
 
-  var scrltoBottom = $('.scrollToBottom');
-  $(window).scroll(function (){
-      // Show & Hide Button Scroll To Top
-      if($(window).scrollTop() <= 1200){
-          if(scrltoBottom.is(':hidden')){
-            scrltoBottom.fadeIn(500);
-          }
-          } else {
-            scrltoBottom.fadeOut(500);
-      }
-  });
+
 
   $('.header .fa-chevron-down').click(function(e){
 
