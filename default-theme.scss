@@ -1,0 +1,55 @@
+$mainColor: #FFD300;
+
+.navbar .navbar-header a{color: $mainColor}
+
+.navbar .collapse ul li a:hover{color: $mainColor}
+
+.header h2 > span {color: $mainColor;}
+
+.header .fa-chevron-down:hover, .header .fa-chevron-down:focus{color: $mainColor;}
+
+.about h2:before,
+.about h2::after,
+.skill h2::before,
+.skill h2::after,
+.our-works h2::before,
+.our-works h2::after,
+.stats h2::before,
+.stats h2::after,
+.blogs h2::before,
+.blogs h2::after,
+.contact h2::before,
+.contact h2::after{border: 2px solid $mainColor}
+
+.about .btn1{background-color: $mainColor}
+
+.skill .circle .loader{border-color: $mainColor $mainColor gray}
+
+.scrollToTop:hover, .scrollToTop:focus{color: $mainColor}
+
+.our-works ul .selected{color: $mainColor; border-bottom: 2px solid $mainColor}
+
+.our-works button.hvr-bounce-to-right:before{background-color: $mainColor}
+
+.stats .stat-box .box i{color: $mainColor}
+
+.team h3{border-bottom: 4px solid $mainColor}
+
+.carousel-indicators .active{background-color: $mainColor}
+
+.blogs .blogs-content .blogs-text .fa-plus{background-color: $mainColor}
+
+.blogs .blogs-content .blogs-text button{background-color: $mainColor}
+
+.blogs button:last-child.hvr-bounce-to-right:before{background-color: $mainColor}
+
+.contact form .hvr-bounce-to-right:before{background-color: $mainColor}
+.contact form button:hover{background-color: $mainColor;}
+
+footer ul a:hover{color: $mainColor}
+
+.copycial .copyright b{color: $mainColor}
+
+.copycial .social-media a > i:hover{color: $mainColor}
+
+.menu .social-media a > i:hover{color: $mainColor}
