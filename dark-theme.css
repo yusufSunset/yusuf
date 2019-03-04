@@ -1,0 +1,5 @@
+.about, .our-works, .skill, .blogs, .our-works h2, .team{background: #333; border-bottom: 1px solid #222}
+
+.about h2, .about p, .about .read-more, .skill, .our-works, .team, .blogs h2{color: #EEE}
+
+.our-works button, .about .btn2{background: #EEE; color: #333}
